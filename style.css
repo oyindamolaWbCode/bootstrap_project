@@ -1,5 +1,4 @@
 
-
 .img-container{
     background-image:linear-gradient(to right, rgba(13, 12, 12, 0.52), rgba(10, 10, 10, 0.73)), url('./img/shop.jpg');
     height:500px;
@@ -66,8 +65,13 @@
     width:100%;
    }
 
+   .foot-section{
+    margin:0;
+   
+   }
+
    .foot-section .mx-auto p{
-    width: 500px;
+    width: 100%;
    }
 
    .foot-section .space{
