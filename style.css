@@ -22,7 +22,9 @@
     margin-top:30px;
 }
 
-
+.fa-brands{
+    color:green;
+}
 
 /* media query */
 @media (max-width:426px){
@@ -35,6 +37,11 @@
     display:none;
    }
 
+   
+   .img-container{
+    width:100%;
+   }
+
    button{
     margin-bottom:10px;
    }
@@ -45,6 +52,10 @@
 
    .d-flex .flex-wrap{
     width: 100%;
+   }
+
+   .foot-section{
+    width:100%;
    }
 }
 
@@ -60,10 +71,11 @@
 
    .foot-section{
     margin:0;
+   
    }
 
    .img-container{
-    width:768px;
+    width:100%;
    }
 
    .d-flex{
